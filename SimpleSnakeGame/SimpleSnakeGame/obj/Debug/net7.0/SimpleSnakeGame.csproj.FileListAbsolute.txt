@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\net7.0\SimpleSnakeGame.exe
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\net7.0\SimpleSnakeGame.deps.json
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\net7.0\SimpleSnakeGame.runtimeconfig.json
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\net7.0\SimpleSnakeGame.dll
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\bin\Debug\net7.0\SimpleSnakeGame.pdb
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\SimpleSnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\SimpleSnakeGame.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\SimpleSnakeGame.AssemblyInfo.cs
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\SimpleSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\SimpleSnakeGame.dll
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\refint\SimpleSnakeGame.dll
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\SimpleSnakeGame.pdb
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\SimpleSnakeGame.genruntimeconfig.cache
+C:\Users\User\Desktop\SimpleSnakeGame\SimpleSnakeGame\obj\Debug\net7.0\ref\SimpleSnakeGame.dll
